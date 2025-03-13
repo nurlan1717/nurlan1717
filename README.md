@@ -4,17 +4,17 @@ Welcome to my GitHub profile! I'm a passionate developer constantly exploring ne
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [React Classroom Project](https://github.com/nurlan1717/react-classroom-project), an interactive classroom management system built with React.
+- 🔭 I’m currently working on [React Classroom Project](https://github.com/nurlan1717/react-classroom-project) and [Gameverse Hub Project](https://github.com/nurlan1717/gameverse-hub), an interactive classroom management system built with React.
 - 🌱 I’m currently learning advanced React and backend development with Node.js and MongoDB.
 - 👯 I’m looking to collaborate on open-source projects, especially those involving web development and real-time communication.
 - 💬 Ask me about anything related to JavaScript, React, and web development in general.
 - 📫 How to reach me: [esedovfn3@gmail.com](mailto:esedovfn3@gmail.com)
 - ⚡ Fun fact: I love to explore new frameworks and libraries
-  
+
 ## 🛠️ Languages and Tools
 
-- **Languages:** JavaScript, HTML, CSS
-- **Frameworks and Libraries:** React, Redux, Express.js, Socket.IO, RTK Query
+- **Languages:** JavaScript, HTML, CSS, TypeScript, SCSS 
+- **Frameworks and Libraries:** React, Redux, Express.js, Socket.IO, RTK Query, Passport.js, Nodemailer, Twilio 
 - **Tools:** Git, GitHub, VSCode, Node.js, MongoDB, Firebase
 
 ## 📈 GitHub Stats
@@ -32,6 +32,7 @@ Welcome to my GitHub profile! I'm a passionate developer constantly exploring ne
 Here are some of my notable repositories:
 
 - [React Classroom Project](https://github.com/nurlan1717/react-classroom-project): An interactive classroom management system inspired by Google Classroom.
+- [Gameverse Hub Project](https://github.com/nurlan1717/gameverse-hub): A platform for gamers to connect, share, and discover gaming content.
 - [My Portfolio](https://github.com/nurlan1717/my-portfolio): A personal portfolio website showcasing my projects and skills.
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
