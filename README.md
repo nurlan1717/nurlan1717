@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** and aspir
 ## 🚀 About Me
 
 - 🔭 Currently working on:
-  - [React Classroom Project](https://github.com/nurlan1717/react-classroom-project) – interactive classroom management system inspired by Google Classroom.  
   - [Gameverse Hub Project](https://github.com/nurlan1717/gameverse-hub) – a gaming platform for developers and players.  
   - [MasterUni](https://github.com/nurlan1717/masteruni) – a platform helping students choose universities based on scores.  
 
@@ -78,7 +77,6 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** and aspir
 
 ## 📄 Featured Repositories  
 
-- [React Classroom Project](https://github.com/nurlan1717/react-classroom-project) – interactive classroom management system.  
 - [Gameverse Hub Project](https://github.com/nurlan1717/gameverse-hub) – social & marketplace platform for gamers.  
 - [MasterUni](https://github.com/nurlan1717/masteruni) – university selection platform for students.  
 - [My Portfolio](https://github.com/nurlan1717/my-portfolio) – personal portfolio showcasing my projects & skills.  
